@@ -1,3 +1,7 @@
+# Name      : Mattrey Kumar Rana
+# Email     : mrana23@myseneca.ca
+# Date      : 3/7/2024
+
 "Our Agile Personal Health Record (PHR) system is designed to empower users by providing them with secure and convenient 
 access to their health information. By leveraging agile methodologies, we continuously evolve our platform to meet the 
 ever-changing needs of our users, delivering a personalized and user-centric experience. Our system enables users to 

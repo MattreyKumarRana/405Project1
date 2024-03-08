@@ -1,3 +1,8 @@
+# Name          : Mattrey Kumar Rana
+# Email         : mrana23@myseneca.ca
+# Date          : 3/7/2024
+# Github Link   : https://github.com/MattreyKumarRana/405Project1/
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import json
 import mysql.connector

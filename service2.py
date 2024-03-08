@@ -1,3 +1,7 @@
+# Name      : Mattrey Kumar Rana
+# Email     : mrana23@myseneca.ca
+# Date      : 3/7/2024
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import json
 import mysql.connector
