@@ -18,7 +18,7 @@ class HealthRecordsHandler(BaseHTTPRequestHandler):
         self.end_headers()
 
         # Retrieve health records from the database
-        cursor.execute("SELECT * FROM health_records")
+        cursor.execute("SELECT * FROM medical_history")
         records = cursor.fetchall()
         self.wfile.write(json.dumps(records).encode('utf-8'))
 
