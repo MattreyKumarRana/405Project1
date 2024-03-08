@@ -1,0 +1,18 @@
+version: "3.7"
+
+services:
+  http-server:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      MYSQL_HOST: mysql
+      MYSQL_USER: mrana23
+      MYSQL_PASSWORD: Jairam1923
+      MYSQL_DB: Project1
+
+  mysql:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: Jairam1923
+      MYSQL_DATABASE: Project1

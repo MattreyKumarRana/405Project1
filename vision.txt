@@ -1,0 +1,7 @@
+"Our Agile Personal Health Record (PHR) system is designed to empower users by providing them with secure and convenient 
+access to their health information. By leveraging agile methodologies, we continuously evolve our platform to meet the 
+ever-changing needs of our users, delivering a personalized and user-centric experience. Our system enables users to 
+manage, control, and share their health data seamlessly, revolutionizing the way individuals interact with their health 
+information. We prioritize user privacy and security, ensuring that sensitive health information is protected at all times. 
+Through agile practices, such as Scrum or Kanban, we manage our product development lifecycle, allowing us to respond 
+quickly to user feedback and market changes."
