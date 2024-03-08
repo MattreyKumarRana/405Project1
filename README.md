@@ -1,18 +1,17 @@
-1. PHR System Implementation
-<br/>
-Description:
-•	A fully functional cloud-based Personal Health Record (PHR) system accessible via APIs.
-•	Built using Python's built-in HTTP package for server-side communication.
-•	Utilizes MySQL database for storing health records and user information.
-Features:
-•	CRUD (Create, Read, Update, Delete) operations for managing health records.
-•	User authentication and authorization for accessing and managing health data securely.
+1. PHR System Implementation<br/>
+Description:<br/>
+•	A fully functional cloud-based Personal Health Record (PHR) system accessible via APIs.<br/>
+•	Built using Python's built-in HTTP package for server-side communication.<br/>
+•	Utilizes MySQL database for storing health records and user information.<br/>
+Features:<br/>
+•	CRUD (Create, Read, Update, Delete) operations for managing health records.<br/>
+•	User authentication and authorization for accessing and managing health data securely.<br/>
 
 
-3. Documentation
-System Architecture:
-•	Illustrates the architecture of the PHR system, including microservices, database, and communication protocols.
-Design Decisions:
+3. Documentation<br/>
+System Architecture:<br/>
+•	Illustrates the architecture of the PHR system, including microservices, database, and communication protocols.<br/>
+Design Decisions:<br/>
 •	Discusses the rationale behind technology choices, such as Python for server-side scripting and MySQL for data storage.
 Agile Process:
 •	Describes how agile methodologies, like Scrum or Kanban, were applied throughout the development lifecycle.
