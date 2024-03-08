@@ -1,4 +1,5 @@
 1. PHR System Implementation
+<br/>
 Description:
 •	A fully functional cloud-based Personal Health Record (PHR) system accessible via APIs.
 •	Built using Python's built-in HTTP package for server-side communication.
@@ -8,7 +9,7 @@ Features:
 •	User authentication and authorization for accessing and managing health data securely.
 
 
-2. Documentation
+3. Documentation
 System Architecture:
 •	Illustrates the architecture of the PHR system, including microservices, database, and communication protocols.
 Design Decisions:
@@ -23,14 +24,14 @@ Security Measures:
 •	Outlines the security measures implemented, such as authentication mechanisms, encryption, and data access controls.
 
 
-3. Testing Suite
+4. Testing Suite
 Functional Tests:
 •	Includes a suite of automated tests covering functional requirements, ensuring that CRUD operations and API endpoints function correctly.
 Non-functional Tests:
 •	Includes security penetration tests to identify and mitigate vulnerabilities in the system.
 
 
-4. User Guide
+5. User Guide
 Description:
 •	Provides guidance for end-users on how to use the PHR system effectively.
 Usage Instructions:
@@ -39,7 +40,7 @@ Security Best Practices:
 •	Advises users on best practices for securing their account and health information, such as using strong passwords and enabling two-factor authentication.
 
 
-5. Project Report
+6. Project Report
 Overview:
 •	Provides an overview of the development process, project goals, and objectives.
 Development Process:
